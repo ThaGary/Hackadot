@@ -1,0 +1,76 @@
+body {
+    overflow: hidden;
+    overflow-y: scroll;
+    color: #FFF;
+    background-image: url("camo.jpg");
+}
+.form-text {
+    display: block;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+
+.form-input {
+    border-radius: 5px;
+    display: block;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 40px;
+    width: 350px;
+    margin-top: 1em;
+}
+
+.preference-select-box {
+    display: block;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: relative;
+}
+
+.preference-options-box {
+    display: inline-block;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    text-align: center;
+}
+
+.preference-text {
+    display: block;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+
+.preference-select-options {
+    display: inline-block;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.cuff-wrapper {
+    display: block;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 3em;
+    text-align: center;
+}
+
+#pink-handcuff, #gold-handcuff, #rhinestone-handcuff {
+    height: 100px;
+    width: 100px;
+}
+
+.submit-button {
+    display: block;
+    left: 0;
+    right: 0;
+    margin: auto;
+}

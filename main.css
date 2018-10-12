@@ -1,0 +1,45 @@
+main img {
+    width: 100vw;
+    height: 50vh;
+}
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.card , nav {
+    box-shadow: 1px 1px 10px #FFF;
+}
+.MoreInfo {
+    width: 60vw;
+    margin: auto;
+}
+.MoreInfo img {
+    width: 400px;
+    height: auto;
+}
+body {
+    overflow: hidden;
+    overflow-y: scroll;
+    color: #FFF;
+    background-image: url("camo.jpg");
+}
+.eventplanner img {
+    width: 200px;
+    height: 100px;
+}
+.eventplanner {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 60vw;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+}
+form {
+    display: flex;
+    flex-direction: row;
+}
